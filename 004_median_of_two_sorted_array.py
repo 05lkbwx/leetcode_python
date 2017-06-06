@@ -1,3 +1,4 @@
+# world's best
 # https://discuss.leetcode.com/topic/16797/very-concise-o-log-min-m-n-iterative-solution-with-detailed-explanation/2
 import sys
 
