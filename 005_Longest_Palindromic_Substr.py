@@ -1,4 +1,6 @@
 # manacher's algorithm
+# see 
+# http://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-2/
 def longestPalindrome(s):
     # Transform S into T.
     # For example, S = "abba", T = "^#a#b#b#a#$".
